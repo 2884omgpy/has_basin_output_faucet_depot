@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create:depot"
+    },
+    {
+      "item": "create:basin"
+    }
+  ],
+  "results": [
+    {
+      "item": "hasbasinoutputfaucetdepot:has_basin_output_faucet_depot"
+    }
+  ],
+  "keepHeldItem": true
+}

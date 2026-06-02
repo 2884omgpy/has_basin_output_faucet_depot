@@ -1,0 +1,5 @@
+{
+  "block.hasbasinoutputfaucetdepot.has_basin_output_faucet_depot": "鉢の搬出用の蛇口があるデポ",
+  "block.hasbasinoutputfaucetdepot.has_hopper_output_depot": "ホッパーのように生成物が出力できるデポ",
+  "itemGroup.has_basin_output_faucet_depot_creative_tab": "鉢の搬出用の蛇口があるデポ"
+}

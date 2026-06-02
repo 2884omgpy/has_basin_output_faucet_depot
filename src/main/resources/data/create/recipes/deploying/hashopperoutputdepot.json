@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "hasbasinoutputfaucetdepot:has_basin_output_faucet_depot"
+    },
+    {
+      "item": "minecraft:hopper"
+    }
+  ],
+  "results": [
+    {
+      "item": "hasbasinoutputfaucetdepot:has_hopper_output_depot"
+    }
+  ],
+  "keepHeldItem": true
+}

@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "hasbasinoutputfaucetdepot:block/has_hopper_output_depot_bottom_output"
+    },
+    "facing=up": {
+      "model": "hasbasinoutputfaucetdepot:block/has_hopper_output_depot_top_output"
+    },
+    "facing=east": {
+      "model": "hasbasinoutputfaucetdepot:block/has_hopper_output_depot_side_output",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "hasbasinoutputfaucetdepot:block/has_hopper_output_depot_side_output",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "hasbasinoutputfaucetdepot:block/has_hopper_output_depot_side_output"
+    },
+    "facing=west": {
+      "model": "hasbasinoutputfaucetdepot:block/has_hopper_output_depot_side_output",
+      "y": 90
+    }
+  }
+}
