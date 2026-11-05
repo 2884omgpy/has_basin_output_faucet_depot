@@ -1,0 +1,38 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+src/generated/
+run-data/
+
+# 备份
+*.bak
+
+minecraft-dev-mcp/
+package-lock.json
+vanilla_temp/
+mc_temp/
+.log/
+dirt_temp/

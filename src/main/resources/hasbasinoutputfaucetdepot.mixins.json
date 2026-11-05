@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com._2884omgpy.hasbasinoutputfaucetdepot.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": ["AssemblyOperatorBlockItemMixin","DepotBehaviourAccessor","BlockEntityBehaviourAccessor","DepotBehaviourMixin"],
+  "client": [],
+  "server": ["AssemblyOperatorBlockItemMixin","DepotBehaviourAccessor","BlockEntityBehaviourAccessor","DepotBehaviourMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "hasbasinoutputfaucetdepot.refmap.json"
+}
